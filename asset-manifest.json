@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/abdulrahman-kh-adam/resturant-menu/static/css/main.276b9a12.css",
-    "main.js": "/abdulrahman-kh-adam/resturant-menu/static/js/main.2d3a458b.js",
-    "static/media/test.jpg": "/abdulrahman-kh-adam/resturant-menu/static/media/test.67854be8cc82755d0f7f.jpg",
-    "index.html": "/abdulrahman-kh-adam/resturant-menu/index.html",
-    "main.276b9a12.css.map": "/abdulrahman-kh-adam/resturant-menu/static/css/main.276b9a12.css.map",
-    "main.2d3a458b.js.map": "/abdulrahman-kh-adam/resturant-menu/static/js/main.2d3a458b.js.map"
+    "main.css": "/resturant-menu/static/css/main.276b9a12.css",
+    "main.js": "/resturant-menu/static/js/main.0511f42c.js",
+    "static/media/test.jpg": "/resturant-menu/static/media/test.67854be8cc82755d0f7f.jpg",
+    "index.html": "/resturant-menu/index.html",
+    "main.276b9a12.css.map": "/resturant-menu/static/css/main.276b9a12.css.map",
+    "main.0511f42c.js.map": "/resturant-menu/static/js/main.0511f42c.js.map"
   },
   "entrypoints": [
     "static/css/main.276b9a12.css",
-    "static/js/main.2d3a458b.js"
+    "static/js/main.0511f42c.js"
   ]
 }
